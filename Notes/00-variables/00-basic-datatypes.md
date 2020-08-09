@@ -6,7 +6,7 @@ GoLang is strictly typed language.
 
 It is of two types
 
-# Signed 
+### Signed 
 
 A Signed integer can be either positive or negative.
 
@@ -22,7 +22,7 @@ Just FYI 8 bits == 1 byte
 | int64 | 64 bits / 8 byte | -2^63 to 2^63 -1 |
 
 
-# Unsigned 
+### Unsigned 
 
 | Type | Size | Range |
 | --- | ----------- |------------|
