@@ -22,11 +22,7 @@ Just FYI 8 bits == 1 byte
 | int64 | 64 bits / 8 byte | -2^63 to 2^63 -1 |
 
 
-Note :- A 32-bit system will allocate 32 bits of memory and a 64-bit system will allocate 64 bits of memory.
-
 * Unsigned 
-
-
 
 | Type | Size | Range |
 | --- | ----------- |------------|
@@ -37,10 +33,7 @@ Note :- A 32-bit system will allocate 32 bits of memory and a 64-bit system will
 | uint64 | 64 bits / 8 byte | 0 to 2^64 -1 |
 
 
-Note :- A 32-bit system will allocate 32 bits of memory and a 64-bit system will allocate 64 bits of memory.
-
-
-* Floats
+## Floats
 
 Floats are numbers with decimals. It is of two types
 
